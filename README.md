@@ -13,3 +13,5 @@ Collection of algo-trading projects I've worked on or are currently working on
 ###  [Quantitative Momentum Investing Strategy](https://github.com/JoshuaOD/AlgoTrading-Projects/tree/main/Quantitative%20Momentum%20Investing%20Strategy) (WIP)
 ![image](https://github.com/JoshuaOD/AlgoTrading-Projects/blob/main/images/qmphilosophy.png)
 
+###  [CAPM Model Investing Strategy](https://github.com/JoshuaOD/AlgoTrading-Projects/tree/main/CAPM%20Model) (WIP)
+![image](https://github.com/JoshuaOD/AlgoTrading-Projects/blob/main/images/capm.png)
